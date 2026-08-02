@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
