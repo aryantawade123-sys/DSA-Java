@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
