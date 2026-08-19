@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
