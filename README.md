@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
