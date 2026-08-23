@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
+| [1927-sum-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
