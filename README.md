@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
