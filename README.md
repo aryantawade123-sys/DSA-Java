@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
