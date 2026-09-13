@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
+| [0068-text-justification](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0068-text-justification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
