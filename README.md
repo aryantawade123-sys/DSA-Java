@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1406-stone-game-iii) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
