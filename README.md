@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1927-sum-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
