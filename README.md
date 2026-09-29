@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0115-distinct-subsequences) |
+| [0796-rotate-string](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -385,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
