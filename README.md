@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryantawade123-sys/DSA-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
