@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -446,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
