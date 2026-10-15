@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0020-valid-parentheses) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
