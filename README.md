@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0835-image-overlap) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryantawade123-sys/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryantawade123-sys/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0009-palindrome-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aryantawade123-sys/DSA-Java/tree/master/0877-stone-game) |
